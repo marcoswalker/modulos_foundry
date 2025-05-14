@@ -28,7 +28,7 @@
     ],
     "url": "https://github.com/marcoswalker/modulos_foundry/tree/main/barbrawl",
     "manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/barbrawl/module.json",
-    "download": "https://codeload.github.com/marcoswalker/modulos_foundry/zip/main",
+    "download": "https://downgit.github.io/#/home?url=https://github.com/marcoswalker/modulos_foundry/tree/main/barbrawl",
     "flags": {
         "hotReload": {
             "extensions": ["css", "hbs", "json"],
