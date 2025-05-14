@@ -10,7 +10,7 @@
         }
     ],
     "version": "1.8.9",
-    "compatibility": {"minimum": "12.324", "verified": "12.331"},
+    "compatibility": {"minimum": "12", "verified": "12"},
     "esmodules": ["barbrawl.js"],
     "styles": ["styles/attributeHud.css"],
     "languages": [
