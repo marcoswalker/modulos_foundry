@@ -26,13 +26,9 @@
         },
         {"lang": "pl", "name": "Polski", "path": "lang/pl.json", "flags": {}}
     ],
-    "url": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl",
+    "url": "https://github.com/marcoswalker/modulos_foundry/tree/main/barbrawl",
     "manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/barbrawl/module.json",
     "download": "https://downgit.github.io/#/home?url=https://github.com/marcoswalker/modulos_foundry/tree/main/barbrawl",
-    "license": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/blob/master/LICENSE",
-    "readme": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/blob/master/README.md",
-    "bugs": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/issues",
-    "changelog": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/blob/master/CHANGELOG.md",
     "flags": {
         "hotReload": {
             "extensions": ["css", "hbs", "json"],
