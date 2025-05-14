@@ -27,8 +27,8 @@
         {"lang": "pl", "name": "Polski", "path": "lang/pl.json", "flags": {}}
     ],
     "url": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl",
-    "manifest": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/raw/master/src/module.json",
-    "download": "https://gitlab.com/api/v4/projects/22486994/packages/generic/barbrawl/1.8.9/barbrawl-v1.8.9.zip",
+    "manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/barbrawl/module.json",
+    "download": "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmarcoswalker%2Fmodulos_foundry%2Ftree%2Fmain%2Fbarbrawl",
     "license": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/blob/master/LICENSE",
     "readme": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/blob/master/README.md",
     "bugs": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/issues",
