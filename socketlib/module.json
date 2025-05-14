@@ -20,7 +20,7 @@
 		"src/socketlib.js"
 	],
 	"url": "https://github.com/manuelVo/foundryvtt-socketlib",
-	"download": "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmarcoswalker%2Fmodulos_foundry%2Ftree%2Fmain%2Fsocketlib",
+	"download": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/socketlib.zip",
 	"manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/socketlib/module.json",
 	"readme": "https://github.com/manuelVo/foundryvtt-socketlib/blob/master/README.md",
 	"changelog": "https://github.com/manuelVo/foundryvtt-socketlib/blob/master/CHANGELOG.md",

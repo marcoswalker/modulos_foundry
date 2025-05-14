@@ -32,5 +32,5 @@
 	},
 	"library": true,
 	"manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/lib-wrapper/module.json",
-	"download": "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmarcoswalker%2Fmodulos_foundry%2Ftree%2Fmain%2Flib-wrapper"
+	"download": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/lib-wrapper.zip"
 }

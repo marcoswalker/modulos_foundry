@@ -160,7 +160,7 @@
     ],
     "url": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice",
     "manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/dice-so-nice/module.json",
-    "download": "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmarcoswalker%2Fmodulos_foundry%2Ftree%2Fmain%2Fdice-so-nice",
+    "download": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/dice-so-nice.zip",
     "bugs": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/issues",
     "readme": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/blob/master/README.md",
     "flags": {

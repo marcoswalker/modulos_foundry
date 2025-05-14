@@ -94,5 +94,5 @@
     "url": "https://github.com/mclemente/fvtt-module-polyglot",
     "version": "2.4.22",
     "manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/polyglot/module.json",
-    "download": "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmarcoswalker%2Fmodulos_foundry%2Ftree%2Fmain%2Fpolyglot"
+    "download": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/polyglot.zip"
 }

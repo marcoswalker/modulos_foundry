@@ -81,7 +81,7 @@
 	},
 	"socket": true,
 	"url": "https://github.com/manuelVo/foundryvtt-drag-ruler",
-	"download": "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmarcoswalker%2Fmodulos_foundry%2Ftree%2Fmain%2Fdrag-ruler",
+	"download": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/drag-ruler.zip",
 	"manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/drag-ruler/module.json",
 	"readme": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/README.md",
 	"changelog": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/CHANGELOG.md",
