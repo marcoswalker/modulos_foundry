@@ -91,7 +91,7 @@
             "path": "lang/zh_Hans.json"
         }
     ],
-    "url": "https://github.com/mclemente/fvtt-module-polyglot",
+    "url": "https://github.com/marcoswalker/modulos_foundry/tree/main/polyglot",
     "version": "2.4.22",
     "manifest": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/polyglot/module.json",
     "download": "https://raw.githubusercontent.com/marcoswalker/modulos_foundry/main/polyglot.zip"
