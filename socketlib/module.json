@@ -2,9 +2,9 @@
 	"id": "socketlib",
 	"title": "socketlib",
 	"description": "A library for easier handling of foundry sockets",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"compatibility": {
-		"minimum": "11",
+		"minimum": "12",
 		"verified": "12"
 	},
 	"library": true,
